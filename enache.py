@@ -1,0 +1,1 @@
+print("Salut! Eu sunt Ionut.")

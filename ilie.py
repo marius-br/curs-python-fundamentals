@@ -1,0 +1,1 @@
+print("Salut, pe mine ma cheama Sorel!")

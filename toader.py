@@ -1,0 +1,1 @@
+print ("salut io sunt toader")

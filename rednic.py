@@ -1,1 +1,1 @@
-print("Salutare, eu sunt Razvan :) :D")
+print("Aloha, eu sunt Razvan :) :D")

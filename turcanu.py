@@ -1,1 +1,1 @@
-print("Am nevoie de o cafea.")
+print("Am nevoie de o cafea!")

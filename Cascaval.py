@@ -1,0 +1,1 @@
+print ("salut, eu sunt R083RT!!!")

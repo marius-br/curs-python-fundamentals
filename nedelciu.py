@@ -1,1 +1,1 @@
-print('Salut, eu sunt Paul!')
+print('Salut, sunt Paul!')

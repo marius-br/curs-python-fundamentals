@@ -1,0 +1,1 @@
+print("Salutare, eu sunt Razvan :)")

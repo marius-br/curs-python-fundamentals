@@ -9,3 +9,5 @@ def genereaza_numere_loterie():
 
 numere_loterie = genereaza_numere_loterie()
 print("Numerele extrase sunt:", numere_loterie)
+
+print("Nu sunt bune , dar macar ai incercat")

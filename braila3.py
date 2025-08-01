@@ -1,1 +1,4 @@
 print("Salut, eu sunt marius!")
+print("Modificarea mea")
+print("Inca o functie")
+print("Salut Marius, sunt George!!")

@@ -21,3 +21,4 @@ def average(num_list):
 
 lista_numere = [6,12,35]
 print(f"Media numerelor din lista este: ", round(average(lista_numere),2))
+print("New line, just to check")
